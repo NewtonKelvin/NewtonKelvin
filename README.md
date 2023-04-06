@@ -8,15 +8,15 @@ Por fim deixo um projeto feito totalmente por mim com propósito de mostrar meu 
 
 ## 🛠️ Conhecimento
 
-[![Html5](https://img.shields.io/badge/Html5-orange?style=for-the-badge&logo=Html5&logoColor=white)](https://github.com/NewtonKelvin/social_media)
-[![Css3](https://img.shields.io/badge/Css3-blue?style=for-the-badge&logo=Css3&logoColor=white)](https://github.com/NewtonKelvin/social_media)
+![Html5](https://img.shields.io/badge/Html5-orange?style=for-the-badge&logo=Html5&logoColor=white)
+![Css3](https://img.shields.io/badge/Css3-blue?style=for-the-badge&logo=Css3&logoColor=white)
 
-[![Javascript](https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=Javascript&logoColor=white)](https://github.com/NewtonKelvin/social_media)
-[![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white)](https://github.com/NewtonKelvin/social_media)
-[![Php](https://img.shields.io/badge/Php-787cb4?style=for-the-badge&logo=Php&logoColor=white)](https://github.com/NewtonKelvin/social_media)
+![Javascript](https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=Javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white)
+![Php](https://img.shields.io/badge/Php-787cb4?style=for-the-badge&logo=Php&logoColor=white)
 
-[![Node](https://img.shields.io/badge/Node-7cb73f?style=for-the-badge&logo=Nodedotjs&logoColor=white)](https://github.com/NewtonKelvin/social_media)
-[![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)](https://github.com/NewtonKelvin/social_media)
+![Node](https://img.shields.io/badge/Node-7cb73f?style=for-the-badge&logo=Nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
