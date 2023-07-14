@@ -1,6 +1,10 @@
 ## 👨‍💻 Sobre mim
 
-Sou um **desenvolvedor full-stack** ompletamente apaixonado por música, tecnologia, web design e programação, amante de minimalismo e organização, venho estudando desenvolvimento desde os 14 anos e sempre tive sede de conhecimento, agora tenho quase 6 anos de experiência profissional e pretendo seguir fazendo o que amo, desenvolver sistemas web com belíssimas interfaces, cultivar um bom trabalho em equipe, ajudar outros desenvolvedores no seu processo de evolução profissional e quem sabe um dia me tornar uma referência.
+Completamente apaixonado por música, tecnologia, web design e programação, prezo a organização e junto com a minha paixão por tecnologia, sempre busco aprimorar meus conhecimentos e habilidades ao máximo. Iniciei minha jornada no desenvolvimento aos 14 anos e, ao longo dos últimos quase 6 anos, adquiri uma valiosa experiência profissional.
+
+Meu verdadeiro amor é criar sistemas web com interfaces equilíbrio e elegância, unindo minha paixão pela programação com meu senso estético. Além disso, valorizo muito o trabalho em equipe, buscando sempre cultivar um ambiente colaborativo e produtivo. Estou sempre disposto a ajudar outros desenvolvedores em seu processo de crescimento e aprendizado, pois acredito na importância de compartilhar conhecimento.
+
+Tenho ambições de me tornar uma referência na área, continuando a evoluir profissionalmente e buscando constantemente desafios que me permitam expandir meus horizontes. Estou determinado a seguir fazendo o que amo, combinando minhas paixões pela tecnologia e design em cada projeto que empreendo.
 
 Por fim deixo um projeto feito totalmente por mim com propósito de mostrar meu conhecimento e servir como base para estudo:
 
